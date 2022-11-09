@@ -4,6 +4,7 @@
 body {
     background-color: #FFE1EF;
     font-family: 'Hind', sans-serif;
+    font-weight: 300;
     margin: 0;
 }
 
@@ -32,7 +33,7 @@ header {
     box-shadow: 2px 2px 10px white;
 }
 
-.logo {
+header a {
     text-decoration: none;
 }
 /* styling the nav bar */
