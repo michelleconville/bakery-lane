@@ -61,7 +61,46 @@ nav a:focus {
     border-bottom: 1px solid #412234;
 }
 
+/* footer */
+.footer {
+    background-color: #FEB1DD;
+    padding: 30px 0px;
+    font-family: 'Montserrat', sans-serif;
+    text-align:center;
+}
 
+.footer .row{
+    width:100%;
+    margin:1% 0%;
+    padding:0.6% 0%;
+    color: #003B4A;
+    font-size:1em;
+}
+
+.footer .row a {
+    text-decoration:none;
+    color: #003B4A;
+    transition:0.5s;
+}
+        
+.footer .row a:hover{
+    color: #412234;
+}
+        
+.footer .row ul{
+    width:100%;
+}
+        
+.footer .row ul li{
+    display:inline-block;
+    margin:0px 30px;
+}
+        
+.footer .row a i{
+    font-size:2em;
+    margin:0% 1%;
+}
+        
 
 
 /* Media Queries for Header */
