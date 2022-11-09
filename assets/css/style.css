@@ -55,3 +55,28 @@ nav a:hover,
 nav a:focus {
   color: #412234;
 }
+
+
+
+
+
+
+/* Media Queries for Header */
+@media (max-width: 640px) {
+    .container {
+      text-align: center;
+    }
+  
+    .container-nav {
+      flex-direction: column;
+    }
+  
+    nav ul {
+      flex-direction: column;
+    }
+  
+    nav li {
+      margin: 0.8em 0;
+    }
+  }
+  
