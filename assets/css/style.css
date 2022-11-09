@@ -141,6 +141,49 @@ nav a:focus {
     padding: 30px;
 }
 
+
+.signup-form h2 {
+    color: #FEB1DD;
+    margin-bottom: 20px;
+}
+
+.text-input {
+    background: transparent;
+    color: #FEB1DD;
+    width: 100%;
+    height: 25px;
+    margin: 5px 0 20px;
+    border: 1px solid #FEB1DD;
+    border-radius: 2px;
+}
+
+.text-input:hover {
+    border-color: #FEB1DD;
+}
+
+.join-button {
+    margin-top: 20px;
+    border-radius: 2px;
+    padding: 15px 32px 15px 32px;
+    text-align: center;
+    font-size: 120%;
+    background-color: FEB1DD;
+    color: #fafafa;
+    display: block;
+}
+
+.join-button:hover {
+    background-color: #412234;
+    color: #FEB1DD;
+}
+
+body{
+    margin:0;
+    overflow-x:hidden;
+    }
+    
+
+
 /* Media Queries for Header */
 @media (max-width: 640px) {
     .container {
