@@ -58,7 +58,7 @@ nav a:focus {
   color: #412234;
 }
 
-.active {
+.active-page {
     border-bottom: 1px solid #412234;
 }
 
