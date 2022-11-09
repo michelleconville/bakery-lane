@@ -6,7 +6,7 @@ body {
     font-family: 'Hind', sans-serif;
     font-weight: 300;
     margin: 0;
-}
+    }
 
 h1 {
     font-family: 'Montserrat', sans-serif;
@@ -17,7 +17,7 @@ h1 {
 
 h2 {
     font-family: 'Montserrat', sans-serif;
-    font-size: 1.5rem;
+    font-size: 2rem;
     color: #003B4A;
     text-transform: uppercase;
 }
@@ -192,6 +192,11 @@ body{
     }
     
 /* Photo gallery */
+.gallery-all h2 {
+    text-transform: uppercase;
+    text-align: center;
+}
+
 .gallery {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -224,6 +229,7 @@ body{
     height: auto;
  
 }
+
 .text
 {
     color: #003B4A;
@@ -234,6 +240,8 @@ body{
     text-align: center;
  
 }
+
+
 .row
 {
     width: 90%;
