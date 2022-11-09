@@ -70,7 +70,7 @@ nav a:focus {
 }
 
 .footer .row{
-    width:100%;
+    width:90%;
     margin:1% 0%;
     padding:0.6% 0%;
     color: #003B4A;
@@ -88,7 +88,7 @@ nav a:focus {
 }
         
 .footer .row ul{
-    width:100%;
+    width:90%;
 }
         
 .footer .row ul li{
@@ -120,5 +120,18 @@ nav a:focus {
     nav li {
       margin: 0.8em 0;
     }
+
+    .footer{
+        text-align:center;
+        padding:5%;
+        }
+        .footer .row ul li{
+        display:block;
+        margin:10px 0px;
+        text-align:center;
+        }
+        .footer .row a i{
+        margin:0% 3%;
+        }
   }
   
