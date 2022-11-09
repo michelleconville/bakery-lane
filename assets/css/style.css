@@ -220,23 +220,23 @@ body{
 /* Types of cakes section */
 .team-container
 {
-    width:100%;
+    width:90%;
     height: auto;
  
 }
 .text
 {
     color: #003B4A;
-    font-size: 25px;
+    font-size: 40px;
     margin-top: 40px;
-    font-weight: 600;
+    font-weight: 300;
     text-transform: uppercase;
     text-align: center;
  
 }
 .row
 {
-    width: 60%;
+    width: 90%;
     margin:auto;
     margin-bottom: 40px;
     margin-top: 20px;
