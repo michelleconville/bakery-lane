@@ -198,7 +198,7 @@ body{
 
   
 .gallery img {
-    width: 100%;
+    width: 90%;
     height: 150px; 
     padding: 10px;
    
@@ -245,6 +245,63 @@ body{
     justify-content: center;
 }
 
+.profile-card
+{
+    background-color: #ffffff;
+    width: 270px;
+    height: 250px;
+    margin: 20px 10px 10px 10px;
+}
+
+.profile-content
+{
+    padding:15px;
+}
+img{
+    width: 80px;
+    height: 80px;
+    border-radius: 50px;
+}
+.profile-image
+{
+    text-align: center;
+}
+.desc
+{
+    text-align: center;
+}
+.desc h2
+{
+    color: #003B4A;
+    font-size: 20px;
+}
+
+.desc p{
+    font-size: 13px;
+    line-height: 1.3em;
+    margin-top: -10px;
+    color: #003B4A;
+     
+}
+.btn-div
+{
+    text-align: center;
+}
+.btn
+{
+    background-color: #FEB1DD;
+    color: #ffffff;
+    width: 150px;
+    cursor: pointer;
+    height: 38px;
+    font-size: 13px;
+    font-weight: 600;
+    box-shadow: 3px 3px 3px 3px #e6e6e6;
+    border-radius: 3px;
+    outline:none;
+    border:none;
+    text-transform: uppercase;
+}
 /* Media Queries for Header */
 @media (max-width: 640px) {
     .container {
