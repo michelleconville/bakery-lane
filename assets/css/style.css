@@ -45,6 +45,7 @@ nav ul {
 
 nav li {
     margin-left: 3em;
+    font-family: 'Montserrat', sans-serif;
 }
 
 nav a {
@@ -64,7 +65,7 @@ nav a:focus {
 /* footer */
 .footer {
     background-color: #FEB1DD;
-    padding: 30px 0px;
+    padding: 0.8em 0;
     font-family: 'Montserrat', sans-serif;
     text-align:center;
 }
@@ -72,7 +73,7 @@ nav a:focus {
 .footer .row{
     width:90%;
     margin:1% 0%;
-    padding:0.6% 0%;
+    padding: 0.8em 0;
     color: #003B4A;
     font-size:1em;
 }
