@@ -1,3 +1,16 @@
 /* google fonts used */
 @import url('https://fonts.googleapis.com/css2family=Hind:wght@300&family=Montserrat:wght@300&display=swap');
 
+body {
+    background-color: #FFE1EF;
+    font-family: 'Hind', sans-serif;
+    margin: 0;
+}
+
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #003B4A;
+    text-transform: uppercase;
+}
