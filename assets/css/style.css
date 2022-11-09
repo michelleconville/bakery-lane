@@ -15,6 +15,13 @@ h1 {
     text-transform: uppercase;
 }
 
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+    color: #003B4A;
+    text-transform: uppercase;
+}
+
 .container {
     width: 90%;
     max-width: 1200px;
@@ -196,11 +203,16 @@ body{
     padding: 10px;
    
     border: 1px solid #ddd;
-    background: #fff;
+    background: #FFE1EF;
    
-    /* cover | contain | fill | scale-down */
     object-fit: contain;
     position: relative;
+  }
+
+  .gallery img:hover {
+    z-index: 9;
+    transform: scale(1.3);
+    transition: transform ease 0.5s;
   }
 
 /* Media Queries for Header */
