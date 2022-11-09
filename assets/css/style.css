@@ -106,7 +106,8 @@ nav a:focus {
 .hero {
     display: flex;
     flex-direction: column;
-    background-image: url("../images/hero_image.jpg");
+    background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), 
+    url("../images/hero_image.jpg");;
     height: 100vh;
     align-self: center;
     background-repeat: no-repeat;
