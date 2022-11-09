@@ -234,21 +234,20 @@ body{
     }
 
     .footer{
-        text-align:center;
-        padding:5%;
-        }
-        .footer .row ul li{
-        display:block;
-        margin:10px 0px;
-        text-align:center;
-        }
-        .footer .row a i{
-        margin:0% 3%;
-        }
+    text-align:center;
+    padding:5%;
+    }
+    .footer .row ul li{
+    display:block;
+    margin:10px 0px;
+    text-align:center;
+    }
+    .footer .row a i{
+    margin:0% 3%;
+    }
 
-    
-        .gallery {
-              grid-template-columns: repeat(2, 1fr);
-            }
+    .gallery {
+    grid-template-columns: repeat(2, 1fr);
+    }
   }
   
