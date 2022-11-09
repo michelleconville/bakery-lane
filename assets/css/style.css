@@ -182,7 +182,26 @@ body{
     overflow-x:hidden;
     }
     
+/* Photo gallery */
+.gallery {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+  }
 
+  
+.gallery img {
+    width: 100%;
+    height: 150px; 
+    padding: 10px;
+   
+    border: 1px solid #ddd;
+    background: #fff;
+   
+    /* cover | contain | fill | scale-down */
+    object-fit: contain;
+    position: relative;
+  }
 
 /* Media Queries for Header */
 @media (max-width: 640px) {
