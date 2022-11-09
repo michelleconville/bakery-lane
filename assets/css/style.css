@@ -7,10 +7,51 @@ body {
     margin: 0;
 }
 
-
 h1 {
     font-family: 'Montserrat', sans-serif;
     font-size: 2.5rem;
     color: #003B4A;
     text-transform: uppercase;
+}
+
+.container {
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.container-nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header {
+    background-color: #FEB1DD;
+    padding: 0.8em 0;
+    box-shadow: 2px 2px 10px white;
+}
+
+header h1 {
+    text-decoration: none;
+}
+/* styling the nav bar */
+nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+}
+
+nav li {
+    margin-left: 3em;
+}
+
+nav a {
+    text-decoration: none;
+    color: #003B4A;
+}
+
+nav a:hover,
+nav a:focus {
+  color: #412234;
 }
