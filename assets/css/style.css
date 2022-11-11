@@ -364,12 +364,7 @@ img{
     margin-left: 50px;
   }
   
-  .container-text h2 {
-
-  }
-  
   .container-text p, .container-text ul {
-    text-align: justify;
     color: #003B4A;
   }
   #flavour-image {
@@ -483,5 +478,10 @@ img{
     .gallery {
     grid-template-columns: repeat(2, 1fr);
     }
+    
+    #flavour-image {
+        background-image: none;
+    }
+
   }
   
