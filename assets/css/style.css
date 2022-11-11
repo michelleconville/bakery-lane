@@ -387,7 +387,7 @@ img{
 }
 
 .about-background {
-    margin: 100px 10% 0 0;
+    margin: 100px 10% 100px;
     color: #fff;
     background-color: rgba(60, 60, 60, 0.9);
     max-width: 800px;
