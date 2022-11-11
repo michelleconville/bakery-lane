@@ -37,12 +37,14 @@ This website's main goal is to show users the bakery and introduce new customers
 
 ## Deployment
 ### Project creation
-This project was created by using the [Code Institute Template](https://github.com/Code-Institute-Org/gitpod-full-template) in github. 
-Gitpod was used to write the code and push the code to repository created in github.
+This project was created by using the [Code Institute Template](https://github.com/Code-Institute-Org/gitpod-full-template) in github. Gitpod was used to write the code and push the code to repository created in github.
 
 The git commands I used to push the code from gitpod to github were
+
 `git add .` - This command was used to add the file(s) to the staging area before they are committed.
+
 `git commit -m “commit message”` - This command was used to commit changes to the local repository queue ready for the final step.
+
 `git push` - This command was used to push all committed code to the remote repository on github.
 
 
