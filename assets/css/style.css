@@ -77,34 +77,34 @@ nav a:focus {
     text-align:center;
 }
 
-.footer .row{
-    width:90%;
+.footer .row-footer {
+    width:100%;
     margin:1% 0%;
     padding: 0.8em 0;
     color: #003B4A;
     font-size:1em;
 }
 
-.footer .row a {
+.footer .row-footer a {
     text-decoration:none;
     color: #003B4A;
     transition:0.5s;
 }
         
-.footer .row a:hover{
+.footer .row-footer a:hover{
     color: #412234;
 }
         
-.footer .row ul{
-    width:90%;
+.footer .row-footer ul{
+    width: 90%;
 }
         
-.footer .row ul li{
+.footer .row-footer ul li{
     display:inline-block;
     margin:0px 30px;
 }
         
-.footer .row a i{
+.footer .row-footer a i{
     font-size:2em;
     margin:0% 1%;
 }
