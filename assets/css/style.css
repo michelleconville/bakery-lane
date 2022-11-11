@@ -149,18 +149,21 @@ nav a:focus {
     color: #FEB1DD;
     border-radius: 2px;
     text-align: center;
-    font-size: 120%;
+    font-size: 150%;
     border-color: #FEB1DD;
     padding: 15px 32px 15px 32px;
+    text-transform: uppercase;
 }
 
 .hero-button a {
     text-decoration: none;
+    background-color: #003B4A;
+    color: #FEB1DD;
 }
 
 .hero-button:hover {
     background-color: #FEB1DD;
-    color: #003B4A;
+    color: #FFE1EF;
 }
 
 /* Contact us form */
