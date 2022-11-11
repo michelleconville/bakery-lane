@@ -315,10 +315,23 @@ img{
 
 .about-us {
     width: 90%;
-    text-align: center;
-    margin-top: 30px;
-    margin-bottom: 30px;
 }
+
+.about-background {
+    margin: 100px 10% 0 0;
+    color: #fff;
+    background-color: rgba(60, 60, 60, 0.9);
+    max-width: 800px;
+    position: absolute;
+    padding: 30px;
+}
+
+.about-background h1 {
+    color: #FEB1DD;
+    margin-bottom: 20px;
+}
+
+
 
 
 /* Media Queries for Header */
