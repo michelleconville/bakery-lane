@@ -124,10 +124,37 @@ nav a:focus {
     justify-content: center;
 }
       
-.text {
-    font-size: 1.4rem;
+.hero-text {
+    font-size: 90%;
+    font-family: 'Hind', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
     text-align: center;
-    color: white;
+
+    width: 400px;
+    height: 350px;
+
+    padding-top: 20px;
+    padding-left: 10px;
+
+    background-color: rgba(254, 177, 221, .7);
+    
+    position: absolute;
+}
+
+.hero-button {
+    background-color: #003B4A;
+    color: #FEB1DD;
+    border-radius: 2px;
+    text-align: center;
+    font-size: 120%;
+    border-color: #FEB1DD;
+    padding: 15px 32px 15px 32px;
+}
+
+.hero-button:hover {
+    background-color: #FEB1DD;
+    color: #003B4A;
 }
 
 /* Contact us form */
@@ -241,7 +268,6 @@ body{
  
 }
 
-
 .row
 {
     width: 90%;
@@ -313,6 +339,7 @@ img{
     text-transform: uppercase;
 }
 
+/* About us section */
 .about-us {
     width: 90%;
 }
@@ -331,7 +358,44 @@ img{
     margin-bottom: 20px;
 }
 
+.call-to-action {
+    font-size: 130%;
+    font-family: 'Hind', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
 
+    width: 300px;
+    height: 200px;
+
+    padding-top: 40px;
+    padding-left: 10px;
+
+    background-color: rgba(241, 109, 107, .7);
+
+    bottom: 30px;
+    right: 150px;
+
+    position: absolute;
+}
+
+
+.join-button {
+    margin-top: 20px;
+    border-radius: 2px;
+    padding: 15px 32px 15px 32px;
+    text-align: center;
+    font-size: 120%;
+    background-color: #FEB1DD;
+    color: #003B4A;
+    display: block;
+    border-color: #FEB1DD;
+    
+}
+
+.join-button:hover {
+    background-color: #003B4A;
+    color: #FEB1DD;
+}
 
 
 /* Media Queries for Header */
