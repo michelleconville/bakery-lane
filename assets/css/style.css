@@ -93,20 +93,20 @@ nav a:focus {
     transition:0.5s;
 }
         
-.footer .row-footer a:hover{
+.footer .row-footer a:hover {
     color: #412234;
 }
         
-.footer .row-footer ul{
+.footer .row-footer ul {
     width: 90%;
 }
         
-.footer .row-footer ul li{
+.footer .row-footer ul li {
     display:inline-block;
     margin:0px 30px;
 }
         
-.footer .row-footer a i{
+.footer .row-footer a i {
     font-size:2em;
     margin:0% 1%;
 }
@@ -165,7 +165,8 @@ nav a:focus {
 
 /* Contact us form */
 .contact-form-section {
-    height: 700px;
+    height: 900px;
+    margin-top: 100px;
 }
 
 .signup-form {
@@ -475,5 +476,8 @@ img {
         width: 0;
     }
 
+    .hero {
+        height: 130vh;
+    }
   }
   
