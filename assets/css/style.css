@@ -116,7 +116,7 @@ nav a:focus {
     display: flex;
     flex-direction: column;
     background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), 
-    url("../images/background-image.webp");
+    url("../images/hero-image.webp");
     height: 100vh;
     align-self: center;
     background-repeat: no-repeat;
@@ -128,20 +128,22 @@ nav a:focus {
       
 .hero-text {
     font-size: 90%;
-    font-family: 'Hind', sans-serif;
     text-transform: uppercase;
-    letter-spacing: 2px;
     text-align: center;
-
-    width: 400px;
-    height: 350px;
-
+    width: 350px;
+    height: 250px;
     padding-top: 20px;
     padding-left: 10px;
-
     background-color: rgba(254, 177, 221, .7);
-    
     position: absolute;
+}
+
+.hero-text h2, .hero-text h3 {
+    font-size: 200%;
+    font-family: 'Hind', sans-serif;
+    text-transform: uppercase;
+    text-align: center;
+    color: #003B4A;
 }
 
 .hero-button {
@@ -471,11 +473,6 @@ img {
     #flavour-image {
         background-image: none;
         width: 0;
-    }
-
-    .contact-form-section {
-        height: 700px;
-        margin: 10%;
     }
 
   }
