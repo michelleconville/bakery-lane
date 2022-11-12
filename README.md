@@ -2,6 +2,8 @@
 ## Project Overview
 Project 1 for Code Institute Full-stack development program: HTML/CSS Essentials
 
+View the [Live site](https://michelleconville.github.io/bakery-lane/index.html)
+
 This project is a Front-End website for an online bakery. 
 A company's online presence can have a significant impact on its success, regardless of its industry. 
 This website's main goal is to show users the bakery and introduce new customers to the brand. A contact form and social media channels allow users to interact with the business on the website, which is interactive and easy to use.
@@ -19,22 +21,21 @@ This website's main goal is to show users the bakery and introduce new customers
 ## User Experience (UX)
 ### User Stories
 First time users
-•	I want to be able to find the types of cakes that are available
-•	I want to be able to contact the Bakery
-•	I want to understand the main purpose of the website
-•	I want to be able to intuitively navigate the website
+*	I want to be able to find the types of cakes that are available
+*	I want to be able to contact the Bakery
+*	I want to understand the main purpose of the website
+*	I want to be able to intuitively navigate the website
 
 Returning User
-•	I want to be able to contact the bakery
-•	I want to be able to find out more information about the bakery
-•	I want to follow the bakery on social media 
+*	I want to be able to contact the bakery
+*	I want to be able to find out more information about the bakery
+*	I want to follow the bakery on social media 
 
 Site Owner
-•	I want users to get to know more about the bakery
-•	I want the users to be able to contact us
-•	I want users to follow us on social media
+*   I want users to get to know more about the bakery
+*	I want the users to be able to contact us
+*   I want users to follow us on social media
 
-### Wireframes
 
 ## Design
 ### Device Dimensions
@@ -51,7 +52,34 @@ Montserrat is used for the logo and the headers and Hind for the rest of the web
 Fonts were imported from [Google Fonts](https://fonts.google.com/). The backup font of sans-serif was used incase the fonts do not load for the user.
 
 ### Structure
+The Bakery Lane website is structured in a user friendly and easy to learn way. Upon arriving to the website, the user sees a navigation bar with the logo on the left-hand side and the navigation links to the right. The navigation bar and footer is located on all pages created.
+
+The website consists of four pages:
+*   The homepage has a hero image with a call-to-action button and two sections for types of cakes and flavours
+*   An About Us page with a hero image, information about the bakery 
+*   A gallery page with images highlighting the different kinds of cakes the bakery sells
+*   A Contact Us page with a contact form
+
+A thank you page when a user completes the contact us form and 404 page are also available.
+
 ### Wireframes
+Homepage
+![index.html](assets/images/wireframes/index.html.png)
+
+About Us page
+![about-us.html](assets/images/wireframes/about-us.html.png)
+
+Gallery page
+![gallery.html](assets/images/wireframes/gallery.html.png)
+
+Contact Us page
+![contact.html](assets/images/wireframes/contact.html.png)
+
+Thank-you page
+![thank-you.html](assets/images/wireframes/thank.you.html.png)
+
+404 error page
+![404.html](assets/images/wireframes/404.html.png)
 
 ## Features 
 
