@@ -100,18 +100,34 @@ The git commands I used to push the code from gitpod to github were
 
 `git push` - This command was used to push all committed code to the remote repository on github.
 
+### Deployment to Github Pages
+The site was deployed to GitHub pages. The steps to deploy are as follows:
+*   In the GitHub repository, navigate to the Settings tab
+*   From the menu on left select *pages*
+*   From the source section drop-down menu, select the Branch: main
+*   Click the *save* button
+*   A live link will be displayed in a green banner when published successfully.
+
+View the [Live site](https://michelleconville.github.io/bakery-lane/index.html)
+
 
 ## Technologies Used
+*   HTML
+The structure of the Website was developed using HTML as the main language.
+*   CSS
+The website was styled using custom CSS in an external file.
+*   GitHub
+Source code is hosted on GitHub and delpoyed using Git Pages.
+*   Gitpod
+Used to commit and push code during the development of the website
+*   Font Awesome
+Icons were obtained from [Font Awesome](https://fontawesome.com/) and used for logo image and the Social media icons in the footer.
+*   Photoshop
+Images used throughout the website were modified using Adobe Photoshop
+*   Favicon.io
+THe favicon files were created at https://favicon.io/favicon-converter/
+*   Balsamiq
+Wireframes were created using Balsamiq
+
 
 ## Credits
-
-
-
-
-
-
-`python3 -m http.server`
-
-
-
-[def]: /assets/images/bakery-lane-colour-palette.jpg
