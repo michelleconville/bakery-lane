@@ -103,7 +103,9 @@ A thank you page when a user completes the contact us form and 404 page are also
 ## Tesing
 
 ### Bugs
+
 ### validator Testing
+
 ### Testing User Stories
 **First time users**
 
@@ -198,6 +200,7 @@ THe favicon files were created at https://favicon.io/favicon-converter/
 Wireframes were created using Balsamiq
 *   Techsini.com
 Used to generate the website mockups
+
 
 
 ## Credits
