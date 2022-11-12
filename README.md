@@ -10,7 +10,6 @@ This website's main goal is to show users the bakery and introduce new customers
 1.	Create an online presence for a bakery
 2.	Provide a way for customers to contact the bakery
 3.	Provide information about the bakery to customers
-4.	Increase orders 
 
 ### Customer goals
 1.	Find information about the bakery
@@ -19,6 +18,22 @@ This website's main goal is to show users the bakery and introduce new customers
 
 ## User Experience (UX)
 ### User Stories
+First time users
+•	I want to be able to find the types of cakes that are available
+•	I want to be able to contact the Bakery
+•	I want to understand the main purpose of the website
+•	I want to be able to intuitively navigate the website
+
+Returning User
+•	I want to be able to contact the bakery
+•	I want to be able to find out more information about the bakery
+•	I want to follow the bakery on social media 
+
+Site Owner
+•	I want users to get to know more about the bakery
+•	I want the users to be able to contact us
+•	I want users to follow us on social media
+
 ### Wireframes
 
 ## Design
