@@ -39,7 +39,17 @@ Site Owner
 ## Design
 ### Device Dimensions
 ### Color Pallette
-### Typography
+
+![Colour Palette](assets/images/bakery-lane-colour-palette.jpg)
+Cotton candy is used through out the site, mainly on the navigation bar and the footer. 
+The midnight green is used for the text which includes the logo. 
+Piggy pink, White and Onyx are used as background colours. All colours are used to style the buttons. 
+
+### Fonts
+The fonts used are Montserrat and Hind. 
+Montserrat is used for the logo and the headers and Hind for the rest of the website. 
+Fonts were imported from [Google Fonts](https://fonts.google.com/). The backup font of sans-serif was used incase the fonts do not load for the user.
+
 ### Structure
 ### Wireframes
 
@@ -74,3 +84,6 @@ The git commands I used to push the code from gitpod to github were
 
 `python3 -m http.server`
 
+
+
+[def]: /assets/images/bakery-lane-colour-palette.jpg

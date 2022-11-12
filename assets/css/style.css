@@ -320,10 +320,7 @@ img {
     height: 60px;
     font-size: 13px;
     font-weight: 600;
-    box-shadow: 3px 3px 3px 3px #e6e6e6;
     border-radius: 3px;
-    outline:none;
-    border:none;
     text-transform: uppercase;
     text-decoration: none;
 }
@@ -397,18 +394,12 @@ img {
     font-family: 'Hind', sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
-
     width: 300px;
     height: 200px;
-
     padding-top: 40px;
     padding-left: 10px;
-
-    background-color: rgba(241, 109, 107, .7);
-
     bottom: 30px;
     right: 150px;
-
     position: absolute;
 }
 
@@ -423,7 +414,6 @@ img {
     color: #003B4A;
     display: block;
     border-color: #FEB1DD;
-    
 }
 
 .join-button:hover {
