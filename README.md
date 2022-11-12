@@ -23,12 +23,12 @@ This website's main goal is to show users the bakery and introduce new customers
 First time users
 *	I want to be able to find the types of cakes that are available
 *	I want to be able to contact the Bakery
-*	I want to be able to intuitively navigate the website
+*	I want to be able to find out more information about the bakery
 
 Returning User
 *	I want to know what type of flavour cakes that are made at the bakery
-*	I want to be able to find out more information about the bakery
-*	I want to follow the bakery on social media 
+*   I want to follow the bakery on social media
+*   I want to be able to see samples of cakes that have been created
 
 Site Owner
 *   I want users to get to know more about the bakery
@@ -104,6 +104,31 @@ A thank you page when a user completes the contact us form and 404 page are also
 
 ### Bugs
 ### validator Testing
+### Testing User Stories
+**First time users**
+
+1. I want to be able to contact the Bakery
+
+| Feature         | Action                                                         | Expected result                 | Actual Result     |
+|-----------------|----------------------------------------------------------------|---------------------------------|-------------------|
+| Contact Us page | On any page click on the Contact Us link in the Navigation bar | Data submitted via contact form | Works as expected |
+| Contact Us page | On any page click on the Contact Us link in the footer         | Data submitted via contact form | Works as expected |
+
+2. I want to be able to find the types of cakes that are available
+
+| Feature               | Action                                                                           | Expected result                     | Actual Result     |
+|-----------------------|----------------------------------------------------------------------------------|-------------------------------------|-------------------|
+| Call to action button | Navigate to the Home page, in the hero image, click on the types of cakes button | Locating the types of cakes section | Works as expected |
+| Type of Cakes section | Navigate to the Home page, scroll down to types of cakes section                 | Locating the types of cakes section | Works as expected |
+
+3. I want to be able to find out more information about the bakery
+
+| Feature       | Action                                                       | Expected result                     | Actual Result     |
+|---------------|--------------------------------------------------------------|-------------------------------------|-------------------|
+| About Us page | On any page click on the About Us link in the Navigation bar | Locating the types of cakes section | Works as expected |
+| About Us page | On any page click on the About Us link in the footer         | Locating the types of cakes section | Works as expected |
+
+
 
 ## Deployment
 ### Project creation
