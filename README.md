@@ -128,7 +128,30 @@ A thank you page when a user completes the contact us form and 404 page are also
 | About Us page | On any page click on the About Us link in the Navigation bar | Locating the types of cakes section | Works as expected |
 | About Us page | On any page click on the About Us link in the footer         | Locating the types of cakes section | Works as expected |
 
+**Returning User**
 
+4. I want to know what type of flavour cakes that are made at the bakery
+
+| Feature                            | Action                                                                       | Expected result                                 | Actual Result     |
+|------------------------------------|------------------------------------------------------------------------------|-------------------------------------------------|-------------------|
+| Most popular flavour cakes section | Navigate to the Home page, scroll down to most popular flavour cakes section | Locating the most popular flavour cakes section | Works as expected |
+
+5. I want to follow the bakery on social media
+
+| Feature               | Action                                                           | Expected result                                | Actual Result     |
+|-----------------------|------------------------------------------------------------------|------------------------------------------------|-------------------|
+| Footer:  Social Media | On any page, navigate to the footer, click on the Facebook icon  | Facebook opened in a new tab in users browser  | Works as expected |
+| Footer:  Social Media | On any page, navigate to the footer, click on the Instagram icon | Instagram opened in a new tab in users browser | Works as expected |
+| Footer:  Social Media | On any page, navigate to the footer, click on the YouTube icon   | YouTube opened in a new tab in users browser   | Works as expected |
+| Footer:  Social Media | On any page, navigate to the footer, click on the Twitter icon   | Twitter opened in a new tab in users browser   | Works as expected |
+
+6. I want to be able to see samples of cakes that have been created
+
+| Feature               | Action                                                                                         | Expected result               | Actual Result     |
+|-----------------------|------------------------------------------------------------------------------------------------|-------------------------------|-------------------|
+| Gallery Page          | On any page click on the Gallery link in the Navigation bar                                    | Find pictures of sample cakes | Works as expected |
+| Gallery Page          | On any page click on the Gallery link in the footer                                            | Find pictures of sample cakes | Works as expected |
+| Type of Cakes section | Navigate to the Home page, scroll down to types of cakes section, click on the view more links | Find pictures of sample cakes | Works as expected |
 
 ## Deployment
 ### Project creation
