@@ -163,22 +163,20 @@ nav a:focus {
 
 /* Contact us form */
 .contact-form-section {
-    clear: left;
-    background-size: cover;
-    background-position: center;
     height: 700px;
 }
 
 .signup-form {
-    margin: 100px 10% 0 0;
+    margin: auto;
     color: #fff;
     background-color: rgba(60, 60, 60, 0.9);
     max-width: 800px;
     position: absolute;
     left: 10%;
+    right: 10%;
     padding: 30px;
+    display: block;
 }
-
 
 .signup-form h2 {
     color: #FEB1DD;
@@ -217,24 +215,18 @@ nav a:focus {
     color: #FEB1DD;
 }
 
-body{
-    margin:0;
-    overflow-x:hidden;
-    }
-    
 /* Photo gallery */
-.gallery-all h2 {
-    text-transform: uppercase;
-    text-align: center;
-}
-
 .gallery {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-gap: 20px;
   }
 
-  
+  .gallery-all h2 {
+    text-transform: uppercase;
+    text-align: center;
+}
+
 .gallery img {
     width: 90%;
     height: 150px; 
@@ -254,11 +246,9 @@ body{
   }
 
 /* Types of cakes section */
-.team-container
-{
+.team-container {
     width:90%;
     height: auto;
- 
 }
 
 .text {
@@ -378,16 +368,19 @@ img {
 
 /* About us section */
 .about-us {
-    width: 90%;
+    height: auto;
 }
 
 .about-background {
-    margin: 100px 10% 100px;
+    margin: auto;
     color: #fff;
     background-color: rgba(60, 60, 60, 0.9);
     max-width: 800px;
     position: absolute;
+    left: 10%;
+    right: 10%;
     padding: 30px;
+    display: block;
 }
 
 .about-background h1 {
@@ -395,6 +388,7 @@ img {
     margin-bottom: 20px;
 }
 
+/*Text of the hero image */
 .call-to-action {
     font-size: 130%;
     font-family: 'Hind', sans-serif;
@@ -477,6 +471,11 @@ img {
     #flavour-image {
         background-image: none;
         width: 0;
+    }
+
+    .contact-form-section {
+        height: 700px;
+        margin: 10%;
     }
 
   }
