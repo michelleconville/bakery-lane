@@ -23,11 +23,10 @@ This website's main goal is to show users the bakery and introduce new customers
 First time users
 *	I want to be able to find the types of cakes that are available
 *	I want to be able to contact the Bakery
-*	I want to understand the main purpose of the website
 *	I want to be able to intuitively navigate the website
 
 Returning User
-*	I want to be able to contact the bakery
+*	I want to know what type of flavour cakes that are made at the bakery
 *	I want to be able to find out more information about the bakery
 *	I want to follow the bakery on social media 
 
@@ -63,23 +62,41 @@ The website consists of four pages:
 A thank you page when a user completes the contact us form and 404 page are also available.
 
 ### Wireframes
-Homepage
-![index.html](assets/images/wireframes/index.html.png)
+ <details>
+<summary>Homepage</summary>
 
-About Us page
+![index.html](assets/images/wireframes/index.html.png) 
+</details>
+
+ <details>
+<summary>About Us page</summary>
+
 ![about-us.html](assets/images/wireframes/about-us.html.png)
+</details>
 
-Gallery page
+ <details>
+<summary>Gallery page</summary>
+
 ![gallery.html](assets/images/wireframes/gallery.html.png)
+</details>
 
-Contact Us page
+ <details>
+<summary>Contact Us page</summary>
+
 ![contact.html](assets/images/wireframes/contact.html.png)
+</details>
 
-Thank-you page
+ <details>
+<summary>Thank-you page</summary>
+
 ![thank-you.html](assets/images/wireframes/thank.you.html.png)
+</details>
 
-404 error page
+ <details>
+<summary>404 error page</summary>
+
 ![404.html](assets/images/wireframes/404.html.png)
+</details>
 
 ## Features 
 
@@ -112,10 +129,13 @@ View the [Live site](https://michelleconville.github.io/bakery-lane/index.html)
 
 
 ## Technologies Used
+**Languages Used**
 *   HTML
 The structure of the Website was developed using HTML as the main language.
 *   CSS
 The website was styled using custom CSS in an external file.
+
+**Programs Used**
 *   GitHub
 Source code is hosted on GitHub and delpoyed using Git Pages.
 *   Gitpod
@@ -128,6 +148,8 @@ Images used throughout the website were modified using Adobe Photoshop
 THe favicon files were created at https://favicon.io/favicon-converter/
 *   Balsamiq
 Wireframes were created using Balsamiq
+*   Techsini.com
+Used to generate the website mockups
 
 
 ## Credits
