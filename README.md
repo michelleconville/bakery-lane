@@ -378,12 +378,12 @@ The website was tested on the following browsers:
 | Input type for message caused an error                       | Add a textarea tag to the form                   |
 | Hero image button wrong color                                | Add the correct colour in the CSS                |
 | About page link stays highlighted when visiting another page | Change active attribute to the correct page      |
-| Footer not centering on a table view                         | Add an additional media query (max-width:999px;) |
+| Footer not centering on a tablet view                         | Add an additional media query (max-width:999px;) |
 
 
 ### Unfixed bugs
 
-*   Footer responsivness on smaller screens
+?
 
 ## Deployment
 ### Project creation
