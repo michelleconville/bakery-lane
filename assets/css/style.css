@@ -3,12 +3,14 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
 
+/* General styles */
+
 body {
     background-color: #FFE1EF;
     font-family: 'Hind', sans-serif;
     font-weight: 300;
     margin: 0;
-    }
+}
 
 h1 {
     font-family: 'Montserrat', sans-serif;
@@ -36,6 +38,7 @@ h2 {
     align-items: center;
 }
 
+
 header {
     background-color: #FEB1DD;
     padding: 0.8em 0;
@@ -45,6 +48,7 @@ header {
 header a {
     text-decoration: none;
 }
+
 /* styling the nav bar */
 nav ul {
     list-style: none;
@@ -64,114 +68,76 @@ nav a {
 
 nav a:hover,
 nav a:focus {
-  color: #412234;
+    color: #412234;
 }
 
 .active-page {
     border-bottom: 1px solid #412234;
 }
 
-/* footer */
-/* .footer {
-    background-color: #FEB1DD;
-    padding: 0.8em 0;
-    font-family: 'Montserrat', sans-serif;
-    text-align:center;
-}
-
-.footer .row-footer {
-    width:100%;
-    margin:1% 0%;
-    padding: 0.8em 0;
-    color: #003B4A;
-    font-size:1em;
-}
-
-.footer .row-footer a {
-    text-decoration:none;
-    color: #003B4A;
-    transition:0.5s;
-}
-        
-.footer .row-footer a:hover {
-    color: #412234;
-}
-        
-.footer .row-footer ul {
-    width: 90%;
-}
-        
-.footer .row-footer ul li {
-    display:inline-block;
-    margin:0px 30px;
-}
-        
-.footer .row-footer a i {
-    font-size:2em;
-    margin:0% 1%;
-} */
-
+/* styling the footer */
 .footer-row {
-	display: flex;
-	flex-wrap: wrap;
+    display: flex;
+    flex-wrap: wrap;
 }
 
 .footer ul {
-	list-style: none;
+    list-style: none;
     padding: 0;
     color: #003B4A;
 }
 
 .footer {
-	background-color: #FEB1DD;
+    background-color: #FEB1DD;
     padding: 50px 0;
 }
 
 .footer-col {
     width: 30%;
     padding: 0 15px;
- }
+}
 
- .footer-col h4 {
-	font-size: 22px;
-	color: #003B4A;
-	text-transform: inherit;
-	margin-bottom: 10px;
-	font-weight: bold;
-	position: relative;
+.footer-col h4 {
+    font-size: 22px;
+    color: #003B4A;
+    text-transform: inherit;
+    margin-bottom: 10px;
+    font-weight: bold;
+    position: relative;
 }
 
 .footer-col ul li {
-	font-size: 16px;
-	text-transform: inherit;
-	text-decoration: none;
-	font-weight: 300;
-	display: block;
-	transition: all 0.3s ease;
+    font-size: 16px;
+    text-transform: inherit;
+    text-decoration: none;
+    font-weight: 300;
+    display: block;
+    transition: all 0.3s ease;
 }
 
 .footer-col .social-links a {
-	display: inline-block;
-	height: 40px;
-	width: 40px;
-	background-color: rgba(255,255,255,0.2);
-	margin:0 10px 10px 0;
-	text-align: center;
-	line-height: 40px;
-	border-radius: 50%;
-	color: #003B4A; 
-	transition: all 0.5s ease;
+    display: inline-block;
+    height: 40px;
+    width: 40px;
+    background-color: rgba(255, 255, 255, 0.2);
+    margin: 0 10px 10px 0;
+    text-align: center;
+    line-height: 40px;
+    border-radius: 50%;
+    color: #003B4A;
+    transition: all 0.5s ease;
 }
+
 .footer-col .social-links a:hover {
     color: white;
 }
 
-/* Hero image */  
+/* styling the hero image */
 .hero {
     display: flex;
     flex-direction: column;
-    background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), 
-    url("../images/hero-image.webp");
+    background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)),
+        url("../images/hero-image.webp");
     height: 100vh;
     align-self: center;
     background-repeat: no-repeat;
@@ -180,7 +146,7 @@ nav a:focus {
     align-items: center;
     justify-content: center;
 }
-      
+
 .hero-text {
     font-size: 90%;
     text-transform: uppercase;
@@ -193,7 +159,8 @@ nav a:focus {
     position: absolute;
 }
 
-.hero-text h2, .hero-text h3 {
+.hero-text h2,
+.hero-text h3 {
     font-size: 200%;
     font-family: 'Hind', sans-serif;
     text-transform: uppercase;
@@ -218,7 +185,7 @@ nav a:focus {
     color: #003B4A;
 }
 
-/* Contact us form */
+/* styling the contact us form */
 .contact-form-section {
     height: 900px;
     margin-top: 100px;
@@ -241,7 +208,8 @@ nav a:focus {
     margin-bottom: 20px;
 }
 
-.text-input, #message {
+.text-input,
+#message {
     background: transparent;
     color: #FEB1DD;
     width: 100%;
@@ -265,7 +233,7 @@ nav a:focus {
     color: #003B4A;
     display: block;
     border-color: #FEB1DD;
-    
+
 }
 
 .join-button:hover {
@@ -273,39 +241,39 @@ nav a:focus {
     color: #FEB1DD;
 }
 
-/* Photo gallery */
+/* styling the photo gallery */
 .gallery {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-gap: 20px;
-  }
+}
 
-  .gallery-all h2 {
+.gallery-all h2 {
     text-transform: uppercase;
     text-align: center;
 }
 
 .gallery img {
     width: 90%;
-    height: 150px; 
+    height: 150px;
     padding: 10px;
-   
+
     border: 1px solid #ddd;
     background: #FFE1EF;
-   
+
     object-fit: contain;
     position: relative;
-  }
+}
 
-  .gallery img:hover {
+.gallery img:hover {
     z-index: 9;
     transform: scale(1.3);
     transition: transform ease 0.5s;
-  }
+}
 
-/* Types of cakes section */
+/* styling the types of cakes section */
 .team-container {
-    width:90%;
+    width: 90%;
     height: auto;
 }
 
@@ -320,7 +288,7 @@ nav a:focus {
 
 .row {
     width: 90%;
-    margin:auto;
+    margin: auto;
     margin-bottom: 40px;
     margin-top: 20px;
     display: flex;
@@ -333,12 +301,12 @@ nav a:focus {
 .profile-card {
     background-color: #ffffff;
     width: 270px;
-    height:300px;
+    height: 300px;
     margin: 20px 10px 10px 10px;
 }
 
 .profile-content {
-    padding:15px;
+    padding: 15px;
 }
 
 img {
@@ -347,7 +315,8 @@ img {
     border-radius: 50px;
 }
 
-.profile-image, .desc {
+.profile-image,
+.desc {
     text-align: center;
 }
 
@@ -380,7 +349,7 @@ img {
     text-decoration: none;
 }
 
-/*flavours section*/
+/* styling the flavours section*/
 .main-content-container {
     background-color: #fff;
     margin: 20px 40px 40px 40px;
@@ -390,9 +359,9 @@ img {
     align-items: center;
     justify-content: center;
     font-family: 'Montserrat', sans-serif;
-  }
+}
 
-  .container-text {
+.container-text {
     display: flex;
     flex-direction: column;
     background-color: #FEB1DD;
@@ -402,26 +371,28 @@ img {
     color: #fff;
     z-index: 20;
     margin-left: 50px;
-  }
-  
-  .container-text p, .container-text ul {
+}
+
+.container-text p,
+.container-text ul {
     color: #003B4A;
-  }
-  #flavour-image {
+}
+
+#flavour-image {
     width: 40%;
     height: 300px;
     background: url("../images/cake-flavours-small.jpg") no-repeat center / cover;
     margin-left: 0px;
     border-radius: 350px;
     z-index: 1;
-  }
+}
 
-  #flavours-text {
+#flavours-text {
     width: 100%;
     margin-right: 50px;
-  }
+}
 
-/* About us section */
+/* styling the About page */
 .about-us {
     height: auto;
 }
@@ -443,7 +414,7 @@ img {
     margin-bottom: 20px;
 }
 
-/*Text of the hero image */
+/* styling the text of the hero image */
 .call-to-action {
     font-size: 130%;
     font-family: 'Hind', sans-serif;
@@ -475,58 +446,44 @@ img {
     color: #FEB1DD;
 }
 
-/* 404 error page */
+/* styling the 404 error page */
 .error-text {
     margin-top: -15%;
 }
 
-.error-text h2, .error-text h3 {
+.error-text h2,
+.error-text h3 {
     color: #003B4A;
     padding-bottom: 20px;
     font-size: 40px;
 }
 
-
-
 /* Media Queries for Header */
 @media (max-width: 640px) {
     .container {
-      text-align: center;
-    }
-  
-    .container-nav {
-      flex-direction: column;
-    }
-  
-    nav ul {
-      flex-direction: column;
-    }
-  
-    nav li {
-      margin: 0.8em 0;
+        text-align: center;
     }
 
-    /* .footer{
-    text-align:center;
-    padding:5%;
+    .container-nav {
+        flex-direction: column;
     }
-    .footer .row ul li{
-    display:block;
-    margin:10px 0px;
-    text-align:center;
+
+    nav ul {
+        flex-direction: column;
     }
-    .footer .row a i{
-    margin:0% 3%;
-    } */
+
+    nav li {
+        margin: 0.8em 0;
+    }
 
     .footer-col {
         width: 100%;
     }
 
     .gallery {
-    grid-template-columns: repeat(2, 1fr);
+        grid-template-columns: repeat(2, 1fr);
     }
-    
+
     #flavour-image {
         background-image: none;
         width: 0;
@@ -536,12 +493,13 @@ img {
         height: 130vh;
     }
 
-    .error-text h2, .error-text h3 {
-    padding-left: 5%;
+    .error-text h2,
+    .error-text h3 {
+        padding-left: 5%;
     }
-  }
-  
-  
+}
+
+
 /* Media Queries for Header */
 @media (max-width: 999px) {
     .footer-col {
@@ -550,10 +508,15 @@ img {
 
     .container {
         text-align: center;
-      }
-    
-      .container-nav {
+    }
+
+    .container-nav {
         flex-direction: column;
-      }
+    }
+
+    #flavour-image {
+        background-image: none;
+        width: 0;
+    }
 
 }
