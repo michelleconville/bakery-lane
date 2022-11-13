@@ -499,7 +499,7 @@ img {
       margin: 0.8em 0;
     }
 
-    .footer{
+    /* .footer{
     text-align:center;
     padding:5%;
     }
@@ -510,6 +510,10 @@ img {
     }
     .footer .row a i{
     margin:0% 3%;
+    } */
+
+    .footer-col {
+        width: 100%;
     }
 
     .gallery {
@@ -525,4 +529,5 @@ img {
         height: 130vh;
     }
   }
+  
   
