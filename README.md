@@ -224,7 +224,44 @@ The W3C Markup Validation Service was used to validate the HTML of the website. 
 ![404 page](assets/images/validation/404-html.JPG)
 </details>
 
+#### Accessibility
+The WAVE WebAIM web accessibility evaluation tool was used to ensure the website met high accessibility standards. All pages pass with 0 errors.
 
+<details>
+<summary>Landing page</summary>
+
+![Landing page](assets/images/validation/index-wave.JPG.JPG)
+</details>
+
+<details>
+<summary>About page</summary>
+
+![About page](assets/images/validation/about-wave.JPG)
+</details>
+
+<details>
+<summary>Gallery page</summary>
+
+![Gallery page](assets/images/validation/gallery-wave.JPG)
+</details>
+
+<details>
+<summary>Contact page</summary>
+
+![Contact page](assets/images/validation/contact-wave.JPG)
+</details>
+
+<details>
+<summary>Thank you page</summary>
+
+![Thank you page](assets/images/validation/thankyou-wave.JPG)
+</details>
+
+<details>
+<summary>404 page</summary>
+
+![404 page](assets/images/validation/404-wave.JPG)
+</details>
 
 #### Performance
 Google Lighthouse in Google Chrome Developer Tools was used to test the performance of the website.
