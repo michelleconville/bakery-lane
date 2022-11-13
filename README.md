@@ -429,5 +429,33 @@ Wireframes were created using Balsamiq
 Used to generate the website mockups
 
 
-
 ## Credits
+
+### Media
+*   All images were provided and used under the [pexel licence](https://www.pexels.com/license/)
+
+*   The icons in the logo and footer were taken from [Font Awesome](https://fontawesome.com/v5/icons/heartbeat?s=solid&f=classic)
+
+### Code
+#### Footer
+Articles read
+*   https://alvarotrigo.com/blog/website-footers/
+
+Code modified 
+*   https://codepen.io/alvarotrigo/pen/vYRRxje
+
+
+#### Landing page
+Articles read and code modified
+*   https://nicolaslule.com/responsive-full-width-hero-image-using-flex/
+
+
+#### Gallery page
+Articles read and code modified
+*   https://code-boxx.com/responsive-image-gallery-html-css/
+
+
+#### Other resources used
+*   W3Schools
+*   https://dev.to/jungjungie/create-a-navbar-with-css-flexbox-2leh
+
