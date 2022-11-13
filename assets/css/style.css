@@ -487,6 +487,8 @@ img {
     font-size: 40px;
 }
 
+
+
 /* Media Queries for Header */
 @media (max-width: 640px) {
     .container {
