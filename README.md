@@ -101,6 +101,9 @@ A thank you page when a user completes the contact us form and 404 page are also
 
 ## Features 
 ### Site wide
+
+All site wide features will be fully responsive on all devices.
+
 #### Navigation Bar
 *   This will contain the bakery logo and links to the Home, About Us, Gallery and Contact Us pages and will be responsive on all devices. 
     *   The logo will be linked to the landing page for ease of use for the user, no matter what page the user is on, By clicking on the logo, the user will be brought back to the landing page.
@@ -127,7 +130,6 @@ A thank you page when a user completes the contact us form and 404 page are also
 
 ![footer](assets/images/features/404-page.JPG)
 
-All site wide features will be fully responsive on all devices.
 
 ### Landing page
 ####	Landing page image and call to action button
@@ -177,11 +179,92 @@ All site wide features will be fully responsive on all devices.
 
 ![contact form](assets/images/features/thank-you.JPG)
 
-## Tesing
+## Testing
 
 ### Bugs
 
 ### validator Testing
+
+#### HTML Validation
+The W3C Markup Validation Service was used to validate the HTML of the website. All pages pass with no errors no warnings to show.
+
+<details>
+<summary>Landing page</summary>
+
+![Landing page](assets/images/validation/index-html.JPG)
+</details>
+
+<details>
+<summary>About page</summary>
+
+![About page](assets/images/validation/about-html.JPG)
+</details>
+
+<details>
+<summary>Gallery page</summary>
+
+![Gallery page](assets/images/validation/gallery-html.JPG)
+</details>
+
+<details>
+<summary>Contact page</summary>
+
+![Contact page](assets/images/validation/contact-html.JPG)
+</details>
+
+<details>
+<summary>Thank you page</summary>
+
+![Thank you page](assets/images/validation/thank-you-html.JPG)
+</details>
+
+<details>
+<summary>404 page</summary>
+
+![404 page](assets/images/validation/404-html.JPG)
+</details>
+
+
+
+#### Performance
+Google Lighthouse in Google Chrome Developer Tools was used to test the performance of the website.
+
+<details>
+<summary>Landing page</summary>
+
+![Landing page](assets/images/validation/index-lighthouse.JPG)
+</details>
+
+<details>
+<summary>About page</summary>
+
+![About page](assets/images/validation/about-lighthouse.JPG)
+</details>
+
+<details>
+<summary>Gallery page</summary>
+
+![Gallery page](assets/images/validation/gallery-lighthouse.JPG)
+</details>
+
+<details>
+<summary>Contact page</summary>
+
+![Contact page](assets/images/validation/contact-lighthouse.JPG)
+</details>
+
+<details>
+<summary>Thank you page</summary>
+
+![Thank you page](assets/images/validation/thankyou-lighthouse.JPG)
+</details>
+
+<details>
+<summary>404 page</summary>
+
+![404 page](assets/images/validation/404-lighthouse.JPG)
+</details>
+
 
 ### Browser compatability
 The website was tested on the following browsers:
