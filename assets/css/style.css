@@ -542,3 +542,18 @@ img {
   }
   
   
+/* Media Queries for Header */
+@media (max-width: 999px) {
+    .footer-col {
+        width: 100%;
+    }
+
+    .container {
+        text-align: center;
+      }
+    
+      .container-nav {
+        flex-direction: column;
+      }
+
+}
