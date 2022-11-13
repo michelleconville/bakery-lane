@@ -179,11 +179,17 @@ All site wide features will be fully responsive on all devices.
 
 ![contact form](assets/images/features/thank-you.JPG)
 
+### Future features to be implemented
+
+*   Order form
+The ability to order directly from the website
+
+*   Blog
+A blog and a subscription service to send emails about the blog items 
+
 ## Testing
 
-### Bugs
-
-### validator Testing
+### Validation
 
 #### HTML Validation
 The W3C Markup Validation Service was used to validate the HTML of the website. All pages pass with no errors no warnings to show.
@@ -223,6 +229,12 @@ The W3C Markup Validation Service was used to validate the HTML of the website. 
 
 ![404 page](assets/images/validation/404-html.JPG)
 </details>
+
+
+#### CSS Validation
+The W3C Jigsaw CSS Validation Service was used to validate the CSS of the website. 
+
+NEEDS TO BE ADDED 
 
 #### Accessibility
 The WAVE WebAIM web accessibility evaluation tool was used to ensure the website met high accessibility standards. All pages pass with 0 errors.
@@ -357,6 +369,18 @@ The website was tested on the following browsers:
 | Gallery Page          | On any page click on the Gallery link in the Navigation bar                                    | Find pictures of sample cakes | Works as expected |
 | Gallery Page          | On any page click on the Gallery link in the footer                                            | Find pictures of sample cakes | Works as expected |
 | Type of Cakes section | Navigate to the Home page, scroll down to types of cakes section, click on the view more links | Find pictures of sample cakes | Works as expected |
+
+
+## Bugs
+
+| Feature                            | Action                                                                       | Expected result                                 | Actual Result     |
+|------------------------------------|------------------------------------------------------------------------------|-------------------------------------------------|-------------------|
+| Most popular flavour cakes section | Navigate to the Home page, scroll down to most popular flavour cakes section | Locating the most popular flavour cakes section | Works as expected |
+
+
+### Unfixed bugs
+
+*   Footer responsivness on smaller screens
 
 ## Deployment
 ### Project creation
