@@ -72,7 +72,7 @@ nav a:focus {
 }
 
 /* footer */
-.footer {
+/* .footer {
     background-color: #FEB1DD;
     padding: 0.8em 0;
     font-family: 'Montserrat', sans-serif;
@@ -109,6 +109,61 @@ nav a:focus {
 .footer .row-footer a i {
     font-size:2em;
     margin:0% 1%;
+} */
+
+.footer-row {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.footer ul {
+	list-style: none;
+    padding: 0;
+    color: #003B4A;
+}
+
+.footer {
+	background-color: #FEB1DD;
+    padding: 50px 0;
+}
+
+.footer-col {
+    width: 30%;
+    padding: 0 15px;
+ }
+
+ .footer-col h4 {
+	font-size: 22px;
+	color: #003B4A;
+	text-transform: inherit;
+	margin-bottom: 10px;
+	font-weight: bold;
+	position: relative;
+}
+
+.footer-col ul li {
+	font-size: 16px;
+	text-transform: inherit;
+	text-decoration: none;
+	font-weight: 300;
+	display: block;
+	transition: all 0.3s ease;
+}
+
+.footer-col .social-links a {
+	display: inline-block;
+	height: 40px;
+	width: 40px;
+	background-color: rgba(255,255,255,0.2);
+	margin:0 10px 10px 0;
+	text-align: center;
+	line-height: 40px;
+	border-radius: 50%;
+	color: #003B4A; 
+	transition: all 0.5s ease;
+}
+.footer-col .social-links a:hover {
+    color: white;
 }
 
 /* Hero image */  
