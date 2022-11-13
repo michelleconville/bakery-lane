@@ -102,7 +102,9 @@ A thank you page when a user completes the contact us form and 404 page are also
 ## Features 
 ### Site wide
 #### Navigation Bar
-*   This will contain the bakery logo and links to the Home, About Us, Gallery and Contact Us pages and will be responsive on all devices. By clicking on the logo, the user will be brought back to the home page.
+*   This will contain the bakery logo and links to the Home, About Us, Gallery and Contact Us pages and will be responsive on all devices. 
+    *   The logo will be linked to the landing page for ease of use for the user, no matter what page the user is on, By clicking on the logo, the user will be brought back to the landing page.
+    *   In the navigation bar, a line will appear under the page that the user so they always know were they are on the website.
 *   This will allow users to easily navigate between the pages within the site on any size device.
 
 ![navigation bar](assets/images/features/navigation-bar-desktop.JPG)
@@ -125,6 +127,8 @@ A thank you page when a user completes the contact us form and 404 page are also
 
 ![footer](assets/images/features/404-page.JPG)
 
+All site wide features will be fully responsive on all devices.
+
 ### Landing page
 ####	Landing page image and call to action button
 *   An image will be carefully chosen for the background to make the landing page stand out from other websites, within the image there will be a text box and button to direct the user to the types of cakes *Bakery Lane* provides.
@@ -139,6 +143,11 @@ A thank you page when a user completes the contact us form and 404 page are also
 ![types of cakes](assets/images/features/types-of-cakes.JPG)
 
 ### About page
+*   The About page will contains information about *Bakery Lane's* story. 
+*   This will allow the user find off more about the bakery.
+
+
+![about the bakery](assets/images/features/about.JPG)
 
 ### Gallery page
 *   The gallery will be fully responsive on all devices, it will provide the user with sample images of cakes already created by *Bakery Lane*. When the user hovers over any of the images, the images will display slightly larger. The images will be displayed in three catagories
@@ -163,7 +172,7 @@ A thank you page when a user completes the contact us form and 404 page are also
 ![contact form](assets/images/features/contact-form.JPG)
 
 #### Thank-you message
-*   On successful submission of the contact form, the user will be navigated to thank-you.html displaying a thank you message.
+*   On successful submission of the contact form, the user will be navigated to thank-you page displaying a thank you message.
 *   This will allow the user know their message has been received. 
 
 ![contact form](assets/images/features/thank-you.JPG)
