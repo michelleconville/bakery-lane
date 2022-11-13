@@ -106,6 +106,13 @@ A thank you page when a user completes the contact us form and 404 page are also
 
 ### validator Testing
 
+### Browser compatability
+The website was tested on the following browsers:
+
+*   Google Chrome
+*   Mozilla Firefox
+*   Microsoft Egde
+
 ### Testing User Stories
 **First time users**
 
