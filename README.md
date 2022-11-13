@@ -113,8 +113,8 @@ A thank you page when a user completes the contact us form and 404 page are also
 
 | Feature         | Action                                                         | Expected result                 | Actual Result     |
 |-----------------|----------------------------------------------------------------|---------------------------------|-------------------|
-| Contact Us page | On any page click on the Contact Us link in the Navigation bar | Data submitted via contact form | Works as expected |
-| Contact Us page | On any page click on the Contact Us link in the footer         | Data submitted via contact form | Works as expected |
+| Contact page | On any page click on the Contact link in the Navigation bar | Data submitted via contact form | Works as expected |
+| Footer - contact information section | On any page scroll down to the footer | Find the contact information for the bakery | Works as expected |
 
 2. I want to be able to find the types of cakes that are available
 
@@ -127,8 +127,7 @@ A thank you page when a user completes the contact us form and 404 page are also
 
 | Feature       | Action                                                       | Expected result                     | Actual Result     |
 |---------------|--------------------------------------------------------------|-------------------------------------|-------------------|
-| About Us page | On any page click on the About Us link in the Navigation bar | Locating the types of cakes section | Works as expected |
-| About Us page | On any page click on the About Us link in the footer         | Locating the types of cakes section | Works as expected |
+| About page | On any page click on the About link in the Navigation bar | Locating the types of cakes section | Works as expected |
 
 **Returning User**
 
