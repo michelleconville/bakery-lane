@@ -101,29 +101,42 @@ A thank you page when a user completes the contact us form and 404 page are also
 
 ## Features 
 ### Site wide
-### Navigation Bar
+#### Navigation Bar
 *   This will contain the bakery logo and links to the Home, About Us, Gallery and Contact Us pages and will be responsive on all devices. By clicking on the logo, the user will be brought back to the home page.
 *   This will allow users to easily navigate between the pages within the site on any size device.
 
 ![navigation bar](assets/images/features/navigation-bar-desktop.JPG)
 
-### Footer
+#### Footer
 *   This will contain both the contact information and the social media information for *Bakery Lane*. The social media websites will open in new tabs and be accessible to the visually impaired who may be using a screen reader, by the use of aria labels. 
 *   This will allow the user to follow *Bakery Lane* on various social media where they can get more up to date information that may not be displayed on the website. The contact information will allow the user to contact *Bakery Lane* directly.
 
 ![footer](assets/images/features/footer-desktop.JPG)
 
-### Favicon
+#### Favicon
 *   A site wide favicon will be implemented with the letter B for Bakery Lane using the same pink colour that is used in the navigation of the site.
 *   This will provide an image in the tabs header to allow the user to easily identify the website if they have multiple tabs open.
 
 ![Favicon icon](assets/images/favicon/favicon-32x32.png)
 
-### 404 Page
+#### 404 Page
 *   A 404 page will be implemented and will display if a user navigates to a broken link.
 *   The 404 page will allow the user to easily navigate back to the main website if they direct to a broken link / missing page, without the need of the browsers back button.
 
 ![footer](assets/images/features/404-page.JPG)
+
+### Landing page
+####	Landing page image and call to action button
+*   An image will be carefully chosen for the background to make the landing page stand out from other websites, within the image there will be a text box and button to direct the user to the types of cakes *Bakery Lane* provides.
+*   This will help to immediately show the user what the website is about.
+
+![landing page](assets/images/features/landing-page.JPG)
+
+#### Types of cakes
+*   This section will be made up of three areas, Birthday Cakes, Tasty Treats and Bespoke Cakes. Each area will show an image, a short description and a link to a specific area to the gallery page.
+*   This will allow the user understand the types of cakes that *Bakery Lane* specialise in and allow the user move to another section of the website.
+
+![types of cakes](assets/images/features/types-of-cakes.JPG)
 
 
 ## Tesing
