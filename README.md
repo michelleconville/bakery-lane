@@ -138,6 +138,35 @@ A thank you page when a user completes the contact us form and 404 page are also
 
 ![types of cakes](assets/images/features/types-of-cakes.JPG)
 
+### About page
+
+### Gallery page
+*   The gallery will be fully responsive on all devices, it will provide the user with sample images of cakes already created by *Bakery Lane*. When the user hovers over any of the images, the images will display slightly larger. The images will be displayed in three catagories
+    *   Birthday Cakes
+    *   Tasty Treats
+    *   Bespoke Cakes
+*   This will allow user to view images of previously create cakes by catagory. As the gallery will be fully responsive it will allow the user to view content from any device.
+
+![gallery of cakes](assets/images/features/gallery.JPG)
+
+### Contact page
+#### Contact form
+*   The contact page will have a contact form to all users to contact *Bakery Lane*. The form will have the follow fields
+    *   First Name
+    *   Last Name
+    *   Email Address
+    *   Phone numbeer
+    *   Text field for the message
+
+*   This will allow user to contact *Bakery Lane* if they have any questions or queries about the bakery. 
+
+![contact form](assets/images/features/contact-form.JPG)
+
+#### Thank-you message
+*   On successful submission of the contact form, the user will be navigated to thank-you.html displaying a thank you message.
+*   This will allow the user know their message has been received. 
+
+![contact form](assets/images/features/thank-you.JPG)
 
 ## Tesing
 
