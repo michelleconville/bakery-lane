@@ -2,6 +2,8 @@
 ## Project Overview
 Project 1 for Code Institute Full-stack development program: HTML/CSS Essentials
 
+![The website displaying on all devices](assets/images/mock-up.JPG)
+
 View the [Live site](https://michelleconville.github.io/bakery-lane/index.html)
 
 This project is a Front-End website for an online bakery. 
@@ -37,7 +39,6 @@ Site Owner
 
 
 ## Design
-### Device Dimensions
 ### Color Pallette
 
 ![Colour Palette](assets/images/bakery-lane-colour-palette.jpg)
@@ -99,6 +100,31 @@ A thank you page when a user completes the contact us form and 404 page are also
 </details>
 
 ## Features 
+### Site wide
+### Navigation Bar
+*   This will contain the bakery logo and links to the Home, About Us, Gallery and Contact Us pages and will be responsive on all devices. By clicking on the logo, the user will be brought back to the home page.
+*   This will allow users to easily navigate between the pages within the site on any size device.
+
+![navigation bar](assets/images/features/navigation-bar-desktop.JPG)
+
+### Footer
+*   This will contain both the contact information and the social media information for *Bakery Lane*. The social media websites will open in new tabs and be accessible to the visually impaired who may be using a screen reader, by the use of aria labels. 
+*   This will allow the user to follow *Bakery Lane* on various social media where they can get more up to date information that may not be displayed on the website. The contact information will allow the user to contact *Bakery Lane* directly.
+
+![footer](assets/images/features/footer-desktop.JPG)
+
+### Favicon
+*   A site wide favicon will be implemented with the letter B for Bakery Lane using the same pink colour that is used in the navigation of the site.
+*   This will provide an image in the tabs header to allow the user to easily identify the website if they have multiple tabs open.
+
+![Favicon icon](assets/images/favicon/favicon-32x32.png)
+
+### 404 Page
+*   A 404 page will be implemented and will display if a user navigates to a broken link.
+*   The 404 page will allow the user to easily navigate back to the main website if they direct to a broken link / missing page, without the need of the browsers back button.
+
+![footer](assets/images/features/404-page.JPG)
+
 
 ## Tesing
 
