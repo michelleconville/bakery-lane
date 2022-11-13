@@ -457,5 +457,8 @@ Articles read and code modified
 
 #### Other resources used
 *   W3Schools
-*   https://dev.to/jungjungie/create-a-navbar-with-css-flexbox-2leh
+*   Code Institute
 
+
+##  Acknowledgements
+Special thanks to my mentor Daisy for her assistance throughout this project
