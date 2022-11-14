@@ -1,4 +1,58 @@
 # Bakery Lane
+
+## Table of Content
+
+1. [Project Overview](#project-overview)
+    1. [Company goals](#company-goals)
+    2. [Customer goals](#Customer-goals)
+2. [User Experience](#user-experience)
+    1. [User Expectations](#user-expectations)
+    2. [User Stories](#user-stories)
+3. [Design](#design)
+    1. [Colour Palette](#colour-palette)
+    2. [Fonts](#fonts)
+    3. [Structure](#structure)
+    4. [Wireframes](#wireframes)
+4. [Features](#features)
+    1. [Site Wide](#site-wide)
+    	1. [Navigation bar](#navigation-bar)
+	    2. [Footer](#footer)
+	    3. [Favicon](#favicon)
+	    4. [404 Page](#404-page)
+    2. [Landing page](#landing-page)
+        1. [Landing page image and call to action button](#landing-page-image-and-call-to-action-button)
+	    2. [Types of cakes](#types-of-cakes)
+	    3. [Flavours](#flavours)
+    3. [About page](#about-page)
+    4. [Gallery page](#gallery-page)
+    5. [Contact page](#contact-page)
+    	1. [Contact form](#contact-form)
+	    2. [Thank-you message](#thank-you-message)
+    6. [Future features](#future-features-to-be-implemented)
+    	1. Order form](#order-form)
+	    2. [Blog](#blog)
+5. [Testing](#testing)
+    1. [Validation](#validation)
+    	1. [HTML Validation](#html-validation)
+	    2. [CSS Validation](#css-validation)
+        3. [Accessibility](#accessibility)
+        4. [Performance](#performance)
+    2. [Browser compatability](#browser-compatability)
+    3. [Testing User Stories](#testing-user-stories)
+    4. [Bugs](#bugs)
+6. [Deployment](#deployment)
+    1. [Project creation](#project-creation)
+	2. [Deployment to Github Pages](#deploymentto-github-pages)
+7. [Technologies Used](#technologies-used)
+    1. [Languages Used](#languages-used)
+	2. [Programs Used](#programs-used)
+8. [Credits](#credits)
+    1. [Media](#media)
+	2. [Code](#code)
+9. [Acknowledgements](#acknowledgements)
+
+
+
 ## Project Overview
 Project 1 for Code Institute Full-stack development program: HTML/CSS Essentials
 
@@ -6,9 +60,9 @@ Project 1 for Code Institute Full-stack development program: HTML/CSS Essentials
 
 View the [Live site](https://michelleconville.github.io/bakery-lane/index.html)
 
-This project is a front-nnd website for an online bakery. 
+This project is a front-end website for an online bakery. 
 A company's online presence can have a significant impact on its success, regardless of its industry. 
-This website's main goal is to show users the bakery and introduce new customers to the brand. A contact form and social media channels allow users to interact with the business on the website, which is interactive and easy to use.
+This website's main goal is to show users the bakery and introduce new customers to the brand. A contact form and social media channels allow users to interact with the bakery on the website, which is interactive and easy to use.
 
 ### Company goals
 1.	Create an online presence for a bakery
@@ -31,19 +85,19 @@ This website's main goal is to show users the bakery and introduce new customers
 
 ### User Stories
 First time users
-*	I want to be able to find the types of cakes that are available
-*	I want to be able to contact the bakery
-*	I want to be able to find out more information about the bakery
+1.	I want to be able to find the types of cakes that are available
+2.	I want to be able to contact the bakery
+3.	I want to be able to find out more information about the bakery
 
 Returning User
-*	I want to know what type of flavour cakes that are made at the bakery
-*   I want to follow the bakery on social media
-*   I want to be able to see samples of cakes that have been created
+4.	I want to know what type of flavour cakes that are made at the bakery
+5.  I want to follow the bakery on social media
+6.  I want to be able to see samples of cakes that have been created
 
 Site Owner
-*   I want users to get to know more about the bakery
-*	I want the users to be able to contact us
-*   I want users to follow us on social media
+7.  I want users to get to know more about the bakery
+8.	I want the users to be able to contact us
+9.  I want users to follow us on social media
 
 
 ## Design
