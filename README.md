@@ -317,7 +317,7 @@ The WAVE WebAIM web accessibility evaluation tool was used to ensure the website
 <details>
 <summary>Landing page</summary>
 
-![Landing page](assets/images/validation/index-wave.JPG.JPG)
+![Landing page](assets/images/validation/index-wave.JPG)
 </details>
 
 <details>
