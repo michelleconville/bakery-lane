@@ -258,7 +258,11 @@ The W3C Markup Validation Service was used to validate the HTML of the website. 
 #### CSS Validation
 The W3C Jigsaw CSS Validation Service was used to validate the CSS of the website. 
 
-NEEDS TO BE ADDED 
+<details>
+<summary>Whole site</summary>
+
+![css validation of whole site](assets/images/validation/bakery-lane-css.JPG)
+</details>
 
 #### Accessibility
 The WAVE WebAIM web accessibility evaluation tool was used to ensure the website met high accessibility standards. All pages pass with 0 errors.
