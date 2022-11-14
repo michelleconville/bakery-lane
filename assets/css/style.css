@@ -436,7 +436,8 @@ img {
     padding: 15px 32px 15px 32px;
     text-align: center;
     font-size: 120%;
-    background-color: #FEB1DD;
+    background-color: hwb(326 69% 0%);
+    border-color: white;
     color: #003B4A;
     display: block;
 }

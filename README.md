@@ -160,6 +160,12 @@ All site wide features will be fully responsive on all devices.
 
 ![types of cakes](assets/images/features/types-of-cakes.JPG)
 
+#### Flavours
+*   This section will supply information about the most popular flavours of cakes that *Bakery Lane* have been asked to bake to give the user more informaation.
+*   This will allow the user understand the flavours of cakes that *Bakery Lane* specialise in.
+
+![flavours of cakes](assets/images/features/flavours.JPG)
+
 ### About page
 *   The About page will contains information about *Bakery Lane's* story. 
 *   This will allow the user find off more about the bakery.
@@ -469,6 +475,7 @@ Code modified
 #### Landing page
 Articles read and code modified
 *   https://nicolaslule.com/responsive-full-width-hero-image-using-flex/
+*   https://adiati.com/how-to-create-a-responsive-navigation-bar-with-flexbox-and-media-queries
 
 
 #### Gallery page
