@@ -18,10 +18,10 @@
     	1. [Navigation bar](#navigation-bar)
         2. [Footer](#footer)
         3. [Favicon](#favicon)
-        4. [404 Page](#404-page)
+        4. [404 page](#404-page)
     2. [Landing page](#landing-page)
     	1. [Landing page image and call to action button](#landing-page-image-and-call-to-action-button)
-	    2. [Types of cakes](#types of cakes)
+	    2. [Types of cakes](#types-of-cakes)
 	    3. [Flavours](#flavours)
     3. [About page](#about-page)
     4. [Gallery page](#gallery-page)
@@ -29,8 +29,6 @@
     	1. [Contact form](#contact-form)
 	    2. [Thank-you message](#thank-you-message)
     6. [Future features](#future-features-to-be-implemented)
-    	1. Order form](#order-form)
-	    2. [Blog](#blog)
 5. [Testing](#testing)
     1. [Validation](#validation)
     	1. [HTML validation](#html-validation)
@@ -41,14 +39,8 @@
     3. [Testing user stories](#testing-user-stories)
     4. [Bugs](#bugs)
 6. [Deployment](#deployment)
-    1. [Project creation](#project-creation)
-	2. [Deployment to github pages](#deploymentto-github-pages)
 7. [Technologies used](#technologies-used)
-    1. [Languages used](#languages-used)
-	2. [Programs used](#programs-used)
 8. [Credits](#credits)
-    1. [Media](#media)
-	2. [Code](#code)
 9. [Acknowledgements](#acknowledgements)
 
 
@@ -100,7 +92,7 @@ Site owner
 
 
 ## Design
-### Color pelette
+### Colour pelette
 
 ![Colour Palette](assets/images/bakery-lane-colour-palette.jpg)
 
