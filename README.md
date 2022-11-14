@@ -36,6 +36,7 @@
         3. [Accessibility](#accessibility)
         4. [Performance](#performance)
     2. [Browser compatibility](#browser-compatibility)
+    3. [Responsiveness](#responsiveness)
     3. [Testing user stories](#testing-user-stories)
     4. [Bugs](#bugs)
 6. [Deployment](#deployment)
@@ -396,6 +397,25 @@ The website was tested on the following browsers:
 *   Mozilla Firefox
 *   Microsoft Edge
 
+### Responsiveness
+All pages were tested to ensure responsiveness on screen sizes from 320px and upwards on the following browsers and devices
+
+#### Browsers
+*   Google Chrome
+*   Mozilla Firefox
+*   Microsoft Edge
+
+#### Devices
+*   iPhone SE
+*   OnePlus Nord
+*   Dell laptop
+
+In addition to the above listed devices, the Google Chrome Developer Tools device toggling option for all available devices was used.
+
+During the testing the website behaved as expected with the exception of testing the form on the contact form on the OnePlus mobile device, details can be found in [unfixed bugs](#unfixed-bugs)
+
+
+
 ### Testing user stories
 **First time users**
 
@@ -456,8 +476,7 @@ The website was tested on the following browsers:
 
 
 ### Unfixed bugs
-
-When a user is completing the form on a mobile view, it moves down into the footer.
+During the responsiveness testing, on a OnePlus Nord mobile device, I noticed that when I add data to the form on the contact page, the form moves down into the footer, this was not the case on the simulated testing I completed. I was unable to resolve this bug on time but will address in a future release.
 
 ## Deployment
 ### Project creation
@@ -489,7 +508,9 @@ The steps to clone a repository are as follows:
 4.	Copy the repository link to the clipboard
 5.	Open Git Bash
 6.	Change the current working directory to the one where you want the cloned directory
-7.	Type git clone and then paste the URL from the clipboard (($ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY)_
+7.	Type git clone and then paste the URL from the clipboard 
+
+    `git clone https://github.com/michelleconville/bakery-lane.git`
 8.	Press Enter to create your local clone.
 
 The repository will now be cloned on your local machine for use.
