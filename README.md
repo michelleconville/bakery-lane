@@ -21,7 +21,7 @@
         4. [404 page](#404-page)
     2. [Landing page](#landing-page)
     	1. [Landing page image and call to action button](#landing-page-image-and-call-to-action-button)
-	    2. [Types of cakes](#types-of-cakes)
+	    2. [Types of bakes](#types-of-bakes)
 	    3. [Flavours](#flavours)
     3. [About page](#about-page)
     4. [Gallery page](#gallery-page)
@@ -77,7 +77,7 @@ This website's main goal is to show users the bakery and introduce new customers
 
 ### User stories
 #### First time users
-1.	I want to be able to find the types of cakes that are available
+1.	I want to be able to find the types of bakes that are available
 2.	I want to be able to contact the bakery
 3.	I want to be able to find out more information about the bakery
 
@@ -117,7 +117,7 @@ Fonts were imported from [Google Fonts](https://fonts.google.com/). The backup f
 The *Bakery Lane* website is structured in a user friendly and easy to learn way. Upon arriving to the website, the user sees a navigation bar with the logo on the left-hand side and the navigation links to the right. The navigation bar and footer are located on all pages created.
 
 The website consists of four pages:
-*   The homepage has a hero image with a call-to-action button and two sections for types of cakes and flavours
+*   The homepage has a hero image with a call-to-action button and two sections for types of bakes and flavours
 *   An About Us page with a hero image, information about the bakery 
 *   A gallery page with images highlighting the different kinds of cakes the bakery sells
 *   A Contact Us page with a contact form
@@ -195,17 +195,17 @@ All site wide features will be fully responsive on all devices.
 
 ### Landing page
 ####	Landing page image and call to action button
-*   An image will be carefully chosen for the background to make the landing page stand out from other websites, within the image there will be a text box and button to direct the user to the types of cakes *Bakery Lane* provides.
+*   An image will be carefully chosen for the background to make the landing page stand out from other websites, within the image there will be a text box and button to direct the user to the types of bakes *Bakery Lane* provides.
 *   This will help to immediately show the user what the website is about.
 
 ![landing page](assets/images/features/landing-page.JPG)
 
-#### Types of cakes
+#### Types of Bakes
 *   This section will be made up of three areas, birthday cakes, tasty treats, and bespoke cakes. Each area will show an image, a short description and a link to a specific area to the gallery page.
-*   This will allow the user to understand the types of cakes that Bakery Lane specialise in and allow the user to move to another section of the website.
+*   This will allow the user to understand the types of bakes that Bakery Lane specialise in and allow the user to move to another section of the website.
 
 
-![types of cakes](assets/images/features/types-of-cakes.JPG)
+![types of Bakes](assets/images/features/types-of-cakes.JPG)
 
 #### Flavours
 *   This section will supply information about the most popular flavours of cakes that *Bakery Lane* have been asked to bake to give the user more information.
@@ -426,18 +426,18 @@ During the testing the website behaved as expected with the exception of testing
 | Contact page | On any page click on the Contact link in the Navigation bar | Data submitted via contact form | Works as expected |
 | Footer - contact information section | On any page scroll down to the footer | Find the contact information for the bakery | Works as expected |
 
-2. I want to be able to find the types of cakes that are available
+2. I want to be able to find the types of bakes that are available
 
 | Feature               | Action                                                                           | Expected result                     | Actual Result     |
 |-----------------------|----------------------------------------------------------------------------------|-------------------------------------|-------------------|
-| Call to action button | Navigate to the Home page, in the hero image, click on the types of cakes button | Locating the types of cakes section | Works as expected |
-| Type of Cakes section | Navigate to the Home page, scroll down to types of cakes section                 | Locating the types of cakes section | Works as expected |
+| Call to action button | Navigate to the Home page, in the hero image, click on the types of bakes button | Locating the types of bakes section | Works as expected |
+| Type of Cakes section | Navigate to the Home page, scroll down to types of bakes section                 | Locating the types of bakes section | Works as expected |
 
 3. I want to be able to find out more information about the bakery
 
 | Feature       | Action                                                       | Expected result                     | Actual Result     |
 |---------------|--------------------------------------------------------------|-------------------------------------|-------------------|
-| About page | On any page click on the About link in the Navigation bar | Locating the types of cakes section | Works as expected |
+| About page | On any page click on the About link in the Navigation bar | Locating the types of bakes section | Works as expected |
 
 **Returning user**
 
@@ -462,7 +462,7 @@ During the testing the website behaved as expected with the exception of testing
 |-----------------------|------------------------------------------------------------------------------------------------|-------------------------------|-------------------|
 | Gallery Page          | On any page click on the Gallery link in the Navigation bar                                    | Find pictures of sample cakes | Works as expected |
 | Gallery Page          | On any page click on the Gallery link in the footer                                            | Find pictures of sample cakes | Works as expected |
-| Type of Cakes section | Navigate to the Home page, scroll down to types of cakes section, click on the view more links | Find pictures of sample cakes | Works as expected |
+| Type of Cakes section | Navigate to the Home page, scroll down to types of bakes section, click on the view more links | Find pictures of sample cakes | Works as expected |
 
 
 ## Bugs
