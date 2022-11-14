@@ -481,6 +481,19 @@ The site was deployed to GitHub pages. The steps to deploy are as follows:
 
 View the [Live site](https://michelleconville.github.io/bakery-lane/index.html)
 
+### Clone the repository
+The steps to clone a repository are as follows:
+1.	Navigate to the GitHub repository you would like to clone
+2.	Click on the code drop down button
+3.	Click on the HTTPS tab
+4.	Copy the repository link to the clipboard
+5.	Open Git Bash
+6.	Change the current working directory to the one where you want the cloned directory
+7.	Type git clone and then paste the URL from the clipboard (($ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY)_
+8.	Press Enter to create your local clone.
+
+The repository will now be cloned on your local machine for use.
+
 
 ## Technologies used
 **Languages used**
