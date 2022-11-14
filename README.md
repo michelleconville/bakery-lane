@@ -2,26 +2,26 @@
 
 ## Table of Content
 
-1. [Project Overview](#project-overview)
+1. [Project overview](#project-overview)
     1. [Company goals](#company-goals)
     2. [Customer goals](#Customer-goals)
 2. [User Experience](#user-experience)
-    1. [User Expectations](#user-expectations)
-    2. [User Stories](#user-stories)
+    1. [User expectations](#user-expectations)
+    2. [User stories](#user-stories)
 3. [Design](#design)
-    1. [Colour Palette](#colour-palette)
+    1. [Colour palette](#colour-palette)
     2. [Fonts](#fonts)
     3. [Structure](#structure)
     4. [Wireframes](#wireframes)
 4. [Features](#features)
-    1. [Site Wide](#site-wide)
+    1. [Site wide](#site-wide)
     	1. [Navigation bar](#navigation-bar)
-	    2. [Footer](#footer)
-	    3. [Favicon](#favicon)
-	    4. [404 Page](#404-page)
+        2. [Footer](#footer)
+        3. [Favicon](#favicon)
+        4. [404 Page](#404-page)
     2. [Landing page](#landing-page)
-        1. [Landing page image and call to action button](#landing-page-image-and-call-to-action-button)
-	    2. [Types of cakes](#types-of-cakes)
+    	1. [Landing page image and call to action button](#landing-page-image-and-call-to-action-button)
+	    2. [Types of cakes](#types of cakes)
 	    3. [Flavours](#flavours)
     3. [About page](#about-page)
     4. [Gallery page](#gallery-page)
@@ -33,27 +33,26 @@
 	    2. [Blog](#blog)
 5. [Testing](#testing)
     1. [Validation](#validation)
-    	1. [HTML Validation](#html-validation)
-	    2. [CSS Validation](#css-validation)
+    	1. [HTML validation](#html-validation)
+        2. [CSS validation](#css-validation)
         3. [Accessibility](#accessibility)
         4. [Performance](#performance)
     2. [Browser compatability](#browser-compatability)
-    3. [Testing User Stories](#testing-user-stories)
+    3. [Testing user stories](#testing-user-stories)
     4. [Bugs](#bugs)
 6. [Deployment](#deployment)
     1. [Project creation](#project-creation)
-	2. [Deployment to Github Pages](#deploymentto-github-pages)
-7. [Technologies Used](#technologies-used)
-    1. [Languages Used](#languages-used)
-	2. [Programs Used](#programs-used)
+	2. [Deployment to github pages](#deploymentto-github-pages)
+7. [Technologies used](#technologies-used)
+    1. [Languages used](#languages-used)
+	2. [Programs used](#programs-used)
 8. [Credits](#credits)
     1. [Media](#media)
 	2. [Code](#code)
 9. [Acknowledgements](#acknowledgements)
 
 
-
-## Project Overview
+## Project overview
 Project 1 for Code Institute Full-stack development program: HTML/CSS Essentials
 
 ![The website displaying on all devices](assets/images/mock-up.JPG)
@@ -74,34 +73,34 @@ This website's main goal is to show users the bakery and introduce new customers
 2.	Be able to easily contact the bakery
 
 
-## User Experience (UX)
+## User experience
 
-### User Expectations 
+### User expectations 
 *   User-friendly and intuitive to navigation
 *   Fast site performance
 *   Accessible to all users
 *   Responsive across devices
 
 
-### User Stories
+### User stories
 First time users
 1.	I want to be able to find the types of cakes that are available
 2.	I want to be able to contact the bakery
 3.	I want to be able to find out more information about the bakery
 
-Returning User
+Returning user
 4.	I want to know what type of flavour cakes that are made at the bakery
 5.  I want to follow the bakery on social media
 6.  I want to be able to see samples of cakes that have been created
 
-Site Owner
+Site owner
 7.  I want users to get to know more about the bakery
 8.	I want the users to be able to contact us
 9.  I want users to follow us on social media
 
 
 ## Design
-### Color Pallette
+### Color pelette
 
 ![Colour Palette](assets/images/bakery-lane-colour-palette.jpg)
 
@@ -174,7 +173,7 @@ A thank you page when a user completes the contact us form and 404 page are also
 
 All site wide features will be fully responsive on all devices.
 
-#### Navigation Bar
+#### Navigation bar
 *   This will contain the bakery logo and links to the Home, About Us, Gallery and Contact Us pages and will be responsive on all devices. 
     *   The logo will be linked to the landing page for ease of use for the user, no matter what page the user is on, By clicking on the logo, the user will be brought back to the landing page.
     *   In the navigation bar, a line will appear under the page that the user so they always know were they are on the website.
@@ -194,7 +193,7 @@ All site wide features will be fully responsive on all devices.
 
 ![Favicon icon](assets/images/favicon/favicon-32x32.png)
 
-#### 404 Page
+#### 404 page
 *   A 404 page will be implemented and will display if a user navigates to a broken link.
 *   The 404 page will allow the user to easily navigate back to the main website if they direct to a broken link / missing page, without the need of the browsers back button.
 
@@ -269,7 +268,7 @@ A blog and a subscription service to send emails about the blog items
 
 ### Validation
 
-#### HTML Validation
+#### HTML validation
 The W3C Markup Validation Service was used to validate the HTML of the website. All pages pass with no errors no warnings to show.
 
 <details>
@@ -309,7 +308,7 @@ The W3C Markup Validation Service was used to validate the HTML of the website. 
 </details>
 
 
-#### CSS Validation
+#### CSS validation
 The W3C Jigsaw CSS Validation Service was used to validate the CSS of the website. 
 
 <details>
@@ -404,7 +403,7 @@ The website was tested on the following browsers:
 *   Mozilla Firefox
 *   Microsoft Egde
 
-### Testing User Stories
+### Testing user stories
 **First time users**
 
 1. I want to be able to contact the bakery
@@ -427,7 +426,7 @@ The website was tested on the following browsers:
 |---------------|--------------------------------------------------------------|-------------------------------------|-------------------|
 | About page | On any page click on the About link in the Navigation bar | Locating the types of cakes section | Works as expected |
 
-**Returning User**
+**Returning user**
 
 4. I want to know what type of flavour cakes that are made at the bakery
 
@@ -479,7 +478,7 @@ The git commands I used to push the code from gitpod to github were
 
 `git push` - This command was used to push all committed code to the remote repository on github.
 
-### Deployment to Github Pages
+### Deployment to github pages
 The site was deployed to GitHub pages. The steps to deploy are as follows:
 *   In the GitHub repository, navigate to the Settings tab
 *   From the menu on left select *pages*
@@ -490,14 +489,14 @@ The site was deployed to GitHub pages. The steps to deploy are as follows:
 View the [Live site](https://michelleconville.github.io/bakery-lane/index.html)
 
 
-## Technologies Used
-**Languages Used**
+## Technologies used
+**Languages used**
 *   HTML
 The structure of the Website was developed using HTML as the main language.
 *   CSS
 The website was styled using custom CSS in an external file.
 
-**Programs Used**
+**Programs used**
 *   GitHub
 Source code is hosted on GitHub and delpoyed using Git Pages.
 *   Gitpod
