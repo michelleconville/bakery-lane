@@ -6,7 +6,7 @@ Project 1 for Code Institute Full-stack development program: HTML/CSS Essentials
 
 View the [Live site](https://michelleconville.github.io/bakery-lane/index.html)
 
-This project is a Front-End website for an online bakery. 
+This project is a front-nnd website for an online bakery. 
 A company's online presence can have a significant impact on its success, regardless of its industry. 
 This website's main goal is to show users the bakery and introduce new customers to the brand. A contact form and social media channels allow users to interact with the business on the website, which is interactive and easy to use.
 
@@ -21,10 +21,18 @@ This website's main goal is to show users the bakery and introduce new customers
 
 
 ## User Experience (UX)
+
+### User Expectations 
+*   User-friendly and intuitive to navigation
+*   Fast site performance
+*   Accessible to all users
+*   Responsive across devices
+
+
 ### User Stories
 First time users
 *	I want to be able to find the types of cakes that are available
-*	I want to be able to contact the Bakery
+*	I want to be able to contact the bakery
 *	I want to be able to find out more information about the bakery
 
 Returning User
@@ -42,6 +50,14 @@ Site Owner
 ### Color Pallette
 
 ![Colour Palette](assets/images/bakery-lane-colour-palette.jpg)
+
+*   Cotton candy #FEB1DD
+*   Midnight green #003B4A 
+*   Piggy Pink #FFE1EF
+*   White #FFF
+*   Onyx #3C3C3C
+
+
 Cotton candy is used through out the site, mainly on the navigation bar and the footer. 
 The midnight green is used for the text which includes the logo. 
 Piggy pink, White and Onyx are used as background colours. All colours are used to style the buttons. 
@@ -52,7 +68,7 @@ Montserrat is used for the logo and the headers and Hind for the rest of the web
 Fonts were imported from [Google Fonts](https://fonts.google.com/). The backup font of sans-serif was used incase the fonts do not load for the user.
 
 ### Structure
-The Bakery Lane website is structured in a user friendly and easy to learn way. Upon arriving to the website, the user sees a navigation bar with the logo on the left-hand side and the navigation links to the right. The navigation bar and footer is located on all pages created.
+The *Bakery Lane* website is structured in a user friendly and easy to learn way. Upon arriving to the website, the user sees a navigation bar with the logo on the left-hand side and the navigation links to the right. The navigation bar and footer is located on all pages created.
 
 The website consists of four pages:
 *   The homepage has a hero image with a call-to-action button and two sections for types of cakes and flavours
@@ -119,7 +135,7 @@ All site wide features will be fully responsive on all devices.
 ![footer](assets/images/features/footer-desktop.JPG)
 
 #### Favicon
-*   A site wide favicon will be implemented with the letter B for Bakery Lane using the same pink colour that is used in the navigation of the site.
+*   A site wide favicon will be implemented with the letter B for *Bakery Lane* using the same pink colour that is used in the navigation of the site.
 *   This will provide an image in the tabs header to allow the user to easily identify the website if they have multiple tabs open.
 
 ![Favicon icon](assets/images/favicon/favicon-32x32.png)
@@ -156,7 +172,7 @@ All site wide features will be fully responsive on all devices.
     *   Birthday Cakes
     *   Tasty Treats
     *   Bespoke Cakes
-*   This will allow user to view images of previously create cakes by catagory. As the gallery will be fully responsive it will allow the user to view content from any device.
+*   This will allow users to view images of previously created cakes by catagory. As the gallery will be fully responsive it will allow the user to view content from any device.
 
 ![gallery of cakes](assets/images/features/gallery.JPG)
 
@@ -169,7 +185,7 @@ All site wide features will be fully responsive on all devices.
     *   Phone numbeer
     *   Text field for the message
 
-*   This will allow user to contact *Bakery Lane* if they have any questions or queries about the bakery. 
+*   This will allow the user to contact *Bakery Lane* if they have any questions or queries about the bakery. 
 
 ![contact form](assets/images/features/contact-form.JPG)
 
@@ -182,9 +198,11 @@ All site wide features will be fully responsive on all devices.
 ### Future features to be implemented
 
 *   Order form
+
 The ability to order directly from the website
 
 *   Blog
+
 A blog and a subscription service to send emails about the blog items 
 
 ## Testing
@@ -325,7 +343,7 @@ The website was tested on the following browsers:
 ### Testing User Stories
 **First time users**
 
-1. I want to be able to contact the Bakery
+1. I want to be able to contact the bakery
 
 | Feature         | Action                                                         | Expected result                 | Actual Result     |
 |-----------------|----------------------------------------------------------------|---------------------------------|-------------------|
@@ -378,12 +396,12 @@ The website was tested on the following browsers:
 | Input type for message caused an error                       | Add a textarea tag to the form                   |
 | Hero image button wrong color                                | Add the correct colour in the CSS                |
 | About page link stays highlighted when visiting another page | Change active attribute to the correct page      |
-| Footer not centering on a tablet view                         | Add an additional media query (max-width:999px;) |
+| Footer not centering on a tablet view                        | Add an additional media query (max-width:999px;) |
 
 
 ### Unfixed bugs
 
-?
+When a user is completing the form on a mobile view, it moves down into the footer.
 
 ## Deployment
 ### Project creation
