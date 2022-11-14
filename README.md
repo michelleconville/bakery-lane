@@ -9,7 +9,7 @@
     1. [User expectations](#user-expectations)
     2. [User stories](#user-stories)
 3. [Design](#design)
-    1. [Colour palette](#colour-palette)
+    1. [Colour](#colour)
     2. [Fonts](#fonts)
     3. [Structure](#structure)
     4. [Wireframes](#wireframes)
@@ -92,7 +92,7 @@ Site owner
 
 
 ## Design
-### Colour pelette
+### Colour
 
 ![Colour Palette](assets/images/bakery-lane-colour-palette.jpg)
 
