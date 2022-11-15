@@ -77,9 +77,9 @@ This website's main goal is to show users the bakery and introduce new customers
 
 ### User stories
 #### First time users
-1.	I want to be able to find the types of bakes that are available
-2.	I want to be able to contact the bakery
-3.	I want to be able to find out more information about the bakery
+1. I want to be able to contact the bakery
+2. I want to be able to find the types of bakes that are available
+3. I want to be able to find out more information about the bakery
 
 #### Returning user
 4.	I want to know what type of flavour cakes that are made at the bakery
@@ -177,6 +177,7 @@ All site wide features will be fully responsive on all devices.
 #### Footer
 *   This will contain both the contact information and the social media information for *Bakery Lane*. The social media websites will open in new tabs and be accessible to the visually impaired who may be using a screen reader, using aria labels. 
 *   This will allow the user to follow *Bakery Lane* on various social media where they can get more up to date information that may not be displayed on the website. The contact information will allow the user to contact *Bakery Lane* directly.
+*   User stories covered: 1, 5, 8 and 9
 
 ![footer](assets/images/features/footer-desktop.JPG)
 
@@ -197,25 +198,28 @@ All site wide features will be fully responsive on all devices.
 ####	Landing page image and call to action button
 *   An image will be carefully chosen for the background to make the landing page stand out from other websites, within the image there will be a text box and button to direct the user to the types of bakes *Bakery Lane* provides.
 *   This will help to immediately show the user what the website is about.
+*   User stories covered: 2
 
 ![landing page](assets/images/features/landing-page.JPG)
 
 #### Types of Bakes
 *   This section will be made up of three areas, birthday cakes, tasty treats, and bespoke cakes. Each area will show an image, a short description and a link to a specific area to the gallery page.
 *   This will allow the user to understand the types of bakes that Bakery Lane specialise in and allow the user to move to another section of the website.
-
+*   User stories covered: 2
 
 ![types of Bakes](assets/images/features/types-of-cakes.JPG)
 
 #### Flavours
 *   This section will supply information about the most popular flavours of cakes that *Bakery Lane* have been asked to bake to give the user more information.
 *   This will allow the user to understand the flavours of cakes that *Bakery Lane* specialise in.
+*   User stories covered: 4
 
 ![flavours of cakes](assets/images/features/flavours.JPG)
 
 ### About page
 *   The About page will contains information about *Bakery Lane's* story. 
 *   This will allow the user find off more about the bakery.
+*   User stories covered: 3
 
 
 ![about the bakery](assets/images/features/about.JPG)
@@ -226,6 +230,7 @@ All site wide features will be fully responsive on all devices.
     *   Tasty treats
     *   Bespoke cakes
 *   This will allow users to view images of previously created cakes by category. As the gallery will be fully responsive it will allow the user to view content from any device.
+*   User stories covered: 6
 
 ![gallery of cakes](assets/images/features/gallery.JPG)
 
@@ -239,6 +244,7 @@ All site wide features will be fully responsive on all devices.
     *   Text field for the message
 
 *   This will allow the user to contact *Bakery Lane* if they have any questions or queries about the bakery. 
+*   User stories covered: 1 and 8
 
 ![contact form](assets/images/features/contact-form.JPG)
 
@@ -464,6 +470,18 @@ During the testing the website behaved as expected with the exception of testing
 | Gallery Page          | On any page click on the Gallery link in the footer                                            | Find pictures of sample cakes | Works as expected |
 | Type of Cakes section | Navigate to the Home page, scroll down to types of bakes section, click on the view more links | Find pictures of sample cakes | Works as expected |
 
+**Site owner**
+*   I want users to get to know more about the bakery
+
+This used case is covered under test case (3)
+
+*   I want the users to be able to contact us
+
+This used case is covered under test case (1)
+
+*   I want users to follow us on social media
+
+This used case is covered under test case (5)
 
 ## Bugs
 
