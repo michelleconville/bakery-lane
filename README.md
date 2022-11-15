@@ -6,8 +6,9 @@
     1. [Company goals](#company-goals)
     2. [Customer goals](#Customer-goals)
 2. [User Experience](#user-experience)
-    1. [User expectations](#user-expectations)
-    2. [User stories](#user-stories)
+    1. [Target Audience](#target-audience)
+    2. [User expectations](#user-expectations)
+    3. [User stories](#user-stories)
 3. [Design](#design)
     1. [Colour](#colour)
     2. [Fonts](#fonts)
@@ -46,7 +47,7 @@
 
 
 ## Project overview
-Project 1 for Code Institute Full-stack development program: HTML/CSS Essentials
+Project 1 for Code Institute Full-stack development program: HTML/CSS Essentials.
 
 ![The website displaying on all devices](assets/images/mock-up.JPG)
 
