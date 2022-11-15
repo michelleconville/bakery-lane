@@ -54,7 +54,7 @@ View the [Live site](https://michelleconville.github.io/bakery-lane/index.html)
 
 This project is a front-end website for an online bakery. 
 A company's online presence can have a significant impact on its success, regardless of its industry. 
-This website's main goal is to show users the bakery and introduce new customers to the brand. A contact form and social media channels allow users to interact with the bakery on the website, which is interactive and easy to use.
+This website's main goal is to show users the bakery and introduce new customers to the brand. A contact form and social media channels allow users to interact with the bakery on the website, which is interactive and easy to use. 
 
 ### Company goals
 1.	Create an online presence for a bakery
@@ -67,6 +67,12 @@ This website's main goal is to show users the bakery and introduce new customers
 
 
 ## User experience
+
+### Target Audience
+*   People looking to buy birthday cakes
+*   People looking to buy bespoke cakes 
+*   People looking to buy treats 
+
 
 ### User expectations 
 *   User-friendly and intuitive to navigation
@@ -579,8 +585,14 @@ Articles read and code modified
 
 #### Other resources used
 *   W3Schools
-*   Code Institute
+*   [Code Institute](https://learn.codeinstitute.net) - Love Running walkthough project
+
+*   README files that inspired me 
+    *   https://github.com/PedroCristo/portfolio_project_1/blob/main/README.md
+    *   https://github.com/4n4ru/CI_MS1_BodelschwingherHof/blob/master/README.md
+    *   https://github.com/Gareth-McGirr/tacos-travels/blob/main/README.md
+
 
 
 ##  Acknowledgements
-Special thanks to my mentor Daisy for her assistance throughout this project
+Special thanks to my mentor Daisy for her assistance throughout this project.
